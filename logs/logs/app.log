@@ -1,1 +1,6 @@
 2024-12-17T16:50:31.934Z [INFO]: GET /
+2024-12-17T17:01:03.021Z [INFO]: GET /api/v1/categories/
+2024-12-17T17:01:07.671Z [INFO]: GET /api/v1/items/?page=1&limit=9
+2024-12-17T17:01:10.133Z [INFO]: GET /api/v1/items/?page=1&limit=9
+2024-12-17T17:01:11.671Z [INFO]: GET /api/v1/categories/
+2024-12-17T17:04:45.764Z [INFO]: GET /api/v1/categories/
