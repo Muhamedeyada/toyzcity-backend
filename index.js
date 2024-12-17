@@ -51,7 +51,7 @@ const mainRouter = express.Router();
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://toy-treasures-frontend-rbrk.vercel.app/",
     credentials: true,
   })
 );
